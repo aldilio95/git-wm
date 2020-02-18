@@ -1,0 +1,8 @@
+git --version
+    untuk melihat version git
+
+git config --global user.name <usernamekamu>
+    untuk set username di git
+
+git config --global email.name <emailkamu>
+    untuk set email di git
