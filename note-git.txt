@@ -4,5 +4,20 @@ git --version
 git config --global user.name <usernamekamu>
     untuk set username di git
 
-git config --global email.name <emailkamu>
+git config --global user.email <emailkamu>
     untuk set email di git
+
+git init
+    inisialisasi terhadap folder projek, agar di track oleh git
+
+git add <file name>
+    memindahkan file dari UNTRACKED area ke STAGING area
+
+git rm --cached <file name>
+    memindahkan file dari STAGING area ke UNTRACKED area
+
+git status
+    untuk melihat status git saat ini
+
+git add <filename>
+    
